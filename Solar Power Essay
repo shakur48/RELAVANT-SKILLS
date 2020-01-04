@@ -1,0 +1,45 @@
+kWh from 0.5% loss of efficiency each year:
+	1st  = 7419.825 kWh , 2nd =  7172.4975 kWh , 3rd = 6925.17 kWh, 4th = 6677.8425 kWh, 5th = 6430.515 kWh, 6th = 6183.1875 kWh, 7th = 5935.86 kWh, 8th = 5688.5325 kWh, 9th = 5441.205 kWh, 10th = 5193.8775 kWh, 11th = 4946.55 kWh, 12th = 4699.2225 kWh, 13th = 4451.895 kWh, 14th = 4204.5675 kWh, 15th = 3957.24 kWh, 16th = 3709.9125 kWh, 17th = 3462.585 kWh, 18th = 3215.2575 kWh, 19th = 2967.93 kWh, 20th = 2720.6025 kWh, 21st = 2473.275 kWh, 22st = 2225.9475 kWh, 23rd = 1978.62 kWh, 24th = 1731.2925 kWh, 25th = 1483.965 kWh, 26th = 1236.6375 kWh, 27th = 989.31 kWh,   28th = 741.9825 kWh, 29th = 494.655 kWh, 30th = 247.33 kWh
+	Total = 115007.2875 kWh
+Hours of sunshine (seattle):
+(http://www.usclimatedata.com/climate/seattle/washington/united-states/uswa0395) 
+	Winter = 235 hours = 9.7917 days
+	Spring = 602 hours = 25.083 days
+	Summer = 786 hours = 32.75 days
+	Autumn = 396 hours = 16.5 days
+	Total = 2019 hours = 84.125 days
+	energy per year from seasonal factor = 88.2 kWh/day/panel * 84.125 days = 7419.825 kWh/year/panel
+	# of panels needed = (10,837 kWh/year/panel) / (7419.825 kWh/year/panel) = 1.46054 panels = 1.46 panels
+	Cost = $500(1.46) - $1,400(1.46) = $730 - $2044
+My household Electric Bills:
+	June = $83.87
+	July = $89.14
+	August = $139.27
+	September = $162.41
+	October = $125.41
+	November = $71.53
+	Average = ($83.87 + $89.14 + $139.27 +$62.41 + $125.41 + $71.53)/(6) = $95.27166667 = $95.3
+Assuming no efficiency loss:
+energy/day/panel (seattle,Wa) = (.15)(147 W/m'2)(4m'2) = 88.2 kWh/day/panel
+energy/year/panel (seattle,Wa) = 88.2 kWh/day/panel * 365 days = 32,193 kWh/year/panel
+energy from 30 years/panel = 32,193 kWh/year/panel * 30 years =  965,790 kWh/panel
+Calculations/Numbers:
+efficiency = 15% , area = 4 m’2/panel, life-span of solar panel = 30 years 
+My average monthly electric bill = $95.3
+My average yearly electric bill = $1143.6
+efficiency loss annually = 0.5%
+my average / average energy consumption in U.S homes = 10,837 kWh/year or 903 kWh/month(http://www.eia.gov/tools/faqs/faq.cfm?id=97&t=3)
+price per panel = $500 to $1,400 (http://www.nytimes.com/2014/06/20/business/energy-environment/buying-into-solar-power-no-roof-access-needed.html?hp&_r=0)
+	average sunshine (seattle Wa) = 147 W/m’2
+(http://www.withouthotair.com/c6/page_46.shtml)
+My average yearly price/kWh (no panels) =  ($1143.6)/(10,837 kWh) =$0.105527 per kWh
+	My ideal yearly price/kWh (with panels) = ($500-$1400)/(965,790 kWh) = $5.177108895e-4 per kWh to $0.0014495905 per kWh
+
+Essay:
+Is solar a good investment for me? Well solar panels are at their best when we get sunshine. So ideally, if seattle were to maintain its average sunshine, 147 W/m’2, through the course of a year I would expect to have 32,193 kWh/panel, which would be a total of 965,790 kwh/panel in the span of 30 years. This means that one panel would be enough to generate all the electricity I use  in one year, 10,837 kWh/year, plus an additional 1.97 years worth of electricity. The cost is also quite tolerable $500-$1400 considering my average yearly electric bill is $1143.6, in this way I would be paying $5.177108895e-4 per kWh to $0.0014495905 per kWh instead of $0.10552736 per kWh. This saves me a total of at least $0.1040777695 per kWh.
+So ideally solar power would not only be a great investment,but an absolute steal. However, these results are under the assumption that my panels would not suffer efficiency loss over the span of 30 years, and that we get sunlight 24/7 (in which case no one gets a good nights sleep). Not to mention “cloudy & raining” weather which alone cause a drop in efficiency of 40% to 60% (http://www.residentialsolar101.org/do_solar_panels_work_in_the_rain/). If I factor in “dirty panels”, I would lose a “1% to 5%” efficiency from my panels (http://www.residentialsolar101.org/do_solar_panels_work_in_the_rain/). And let’s not forget that solar panels tend to lose an efficiency of 0.5% annually “so that would mean they would last me at most 30 years”(http://solarenergy.net/solar-power-resources/10-things-to-know-before-going-solar/) .
+In order for me to adequately compare the savings from such an investment I would have to factor in these losses in efficiency. 
+First I would have to factor in that seattle’s daylight hours vary from  winter (235 hours,9.7917 days) to spring (602 hours,25.083 days) to summer (786 hours,32.75 days) to  autumn (396 hours,16.5 days) (http://www.usclimatedata.com/climate/seattle/washington/united-states/uswa0395). That sums up to a total of 2019 hours / 84.125 days total of daylight throughout the year which produces 7419.825 kWh/year/panel. In this case one panel would not be enough, I would need a total of about 1.46 panels. 
+At this point I would be paying $700 - $2044 and the maximum for this price range is nearly double what I would regularly pay in one year. At this point I would start to second guess buying solar panels.
+Lastly I would have to factor in the fact that solar panels lose their efficiency by 0.5% each year causing them to last up to at least 30 years. Which means in the span of 30 years I would have amassed a cumulative total of 115,007.2875 kWh when I would actually need 325,110kWh. Without factoring in dirty panels, “which suffer a loss of efficiency from 1% to 5%”, and assuming my panels are facing south the total difference in energy needed to energy obtained would amount to 210102.7125 kWh.
+Under these circumstances there is no way I would let myself get scammed into investing in solar panels. If for some reason solar panels were my only option it would take 2 panels for me to generate all the electricity I use in one year for the first year. If I wanted to buy into a farm for that many panels that would cost me a total of $1000 to $2800. That is a savings of $143.6 to -$1656.4  which more than likely will generate a loss in terms of savings. To add insult to injury, it would take me from .8744316194 years to 2.448408534 years for me to recoup my investment.
